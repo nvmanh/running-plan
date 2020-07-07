@@ -1,3 +1,5 @@
 {
-  "main.js": "bundle.js"
+  "main.js": "bundle.js",
+  "favicon.ico": "favicon.ico",
+  "index.html": "index.html"
 }
